@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "LearnStaticWebSiteAngular"
+    }
+  },
+  "defaultProject": "LearnStaticWebSiteAngular",
+  "cli": {
+    "analytics": false
+  }
 }
